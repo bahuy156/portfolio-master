@@ -504,18 +504,18 @@
     }
             /*----MAIN TOP LEFT LEVEL----*/
     .main-top_left-level{
-        padding: 23px 0 25px 15px;
+        padding: 23px 3px 25px 15px;
     }
     .level-1{
-        left: 120px;
+        left: 115px;
         padding: 0 70px 0 0;
     }
     .level-2{
-        left: 120px;
+        left: 115px;
         padding: 0 34px 0 0;
     }
     .level-3{
-        left: 120px;
+        left: 115px;
         padding: 0 20px 0 0;
     }
     .level-3 p{
@@ -527,7 +527,7 @@
         padding: 22px 22px 36px 15px;
     }     
     .main-top_left-hobbies-content-child img{
-        width: 372px;
+        width: 367px;
     }
             /*----MAIN RIGHT CONTENT----*/
     .main-right-content{
